@@ -1,3 +1,2 @@
 # SurfsUp
-
-This is the code for the paper "SURFSUP: Learning Fluid Simulation for Novel Surfaces"
+[code coming soon] for the paper "SURFSUP: Learning Fluid Simulation for Novel Surfaces"
